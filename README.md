@@ -1,13 +1,13 @@
-# Personal Finances - Heroku Deployment 
-
-
+# Personal Finances - Heroku Deployment
 
 # Peronal Finances - Github Repository
 
 https://github.com/Muzan67/Personal-Finances
 
 # Personal Finances
+
 ## Desciption
+
 Giving users a fast and easy way to track their money is important, but allowing them to access that information at any time is even more important. Having offline functionality is paramount to the success of an application that handles users’ financial information.
 
 ## Table of Contents
@@ -21,14 +21,14 @@ Giving users a fast and easy way to track their money is important, but allowing
 - Technologies Used
 - Installation
 - Usage
-- Screenshots of Social-Network-API-NoSQL
+- Screenshots
 
 # User Story
 
 ```
 AS AN avid traveller
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-SO THAT my account balance is accurate when I am traveling 
+SO THAT my account balance is accurate when I am traveling
 
 ```
 
@@ -49,19 +49,20 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 ## Technologies Used
 
-- 
-- 
-- 
-- 
-- 
-- 
+-
+-
+-
+-
+-
+-
 
 ## Installation
 
-To install this application, clone the code into your terminal for the respective repository. 
+To install this application, clone the code into your terminal for the respective repository.
+
 # Usage
 
-1. 
-2. 
+1.
+2.
 
 ## Screenshots of Personal Finances
