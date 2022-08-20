@@ -50,20 +50,30 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 ## Technologies Used
 
--
--
--
--
--
--
+- Javascript
+- Bootstrap
+- Node
+- HTML5
+- CSS
+- Express
+- Morgan
+- Mongoose
+- Compression
+- Manifest
 
 ## Installation
 
 To install this application, clone the code into your terminal for the respective repository.
 
 # Usage
+Run the following commands in the command-line in the root of the folder
 
-1.
-2.
+1. npm install
+2. npm start
+3. Run the browser: http://localhost:3001/
+4. In the "Name of transaction" field, enter the name of the transaction.
+5. In the "Transaction amount" field, enter the amount of the transaction.
+6. Click either "Add Funds" or "Subtract Funds" based on wether you would like to add or subtract those funds from your budget.
+7. You are more than welcome to continue making transactions to see your expenses.
 
 ## Screenshots of Personal Finances

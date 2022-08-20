@@ -49,9 +49,10 @@ const config = {
       analyzerMode: "static",
     }),
     new WebpackPwaManifest({
-      name: "Food Event",
-      short_name: "Foodies",
-      description: "An app that allows you to view upcoming food events.",
+      name: "Personal-Finances",
+      short_name: "Budget",
+      description:
+        "An app that allows you to view and manage your personal finances.",
       start_url: "../index.html",
       background_color: "#01579b",
       theme_color: "#ffffff",
