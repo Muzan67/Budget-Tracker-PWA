@@ -78,4 +78,5 @@ Run the following commands in the command-line in the root of the folder:
 7. You are more than welcome to continue making transactions to see and manage your expenses.
 
 ## Screenshots of Personal Finances
-![Untitled](https://user-images.githubusercontent.com/102841726/185766769-d8cf0277-4fe7-4361-92f2-25e3b0ec242e.png)
+![185766769-d8cf0277-4fe7-4361-92f2-25e3b0ec242e](https://user-images.githubusercontent.com/102841726/187489794-2cc77eef-c068-45c7-a655-4f922e34c790.png)
+
